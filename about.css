@@ -1,0 +1,64 @@
+#return {
+    font-size: 2rem;
+    font-weight: 500;
+    position: fixed;
+    top: 2rem;
+    left: 0;
+    padding: 1rem 2rem 1rem 3rem;
+    background: #f8f8ff;
+    border-radius: 0 10rem 10rem 0;
+}
+
+.baloon {
+    right: 0;
+    transform: translate(-16rem, 0);
+}
+
+#contact_bts {
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width:800px) {
+}
